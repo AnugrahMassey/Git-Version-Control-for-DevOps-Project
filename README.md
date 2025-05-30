@@ -1,4 +1,4 @@
-# Git Version Control for DevOps Project
+# DevOps Internship - Task 3: Git Version Control for DevOps Project
 
 ## Project Overview
 This repository demonstrates a complete Git version control workflow for a DevOps project. It implements best practices for branching, merging, pull requests, tagging, and documentation as outlined in the internship task requirements.
